@@ -14,10 +14,8 @@ It supports adding books/members, issuing & returning books, searching, sorting,
 - Return a book
 - Search books (by title, author, or category)
 - Sort books by:
-
-Title
-
-Author
+a. Title
+b. Author
 - Auto-generate Book IDs
 - Save & load books from file (books.txt)
 - Member Management
@@ -64,17 +62,28 @@ CityLibrarySystem (Main Class) → Starts the program
 Enter choice: 1
 
 Enter Book Title: Atomic Habits
+
 Enter Author: James Clear
+
 Enter Category: Self-help
+
 Book added successfully with ID: 101
 
+
 ===== City Library Digital Management System =====
+
 Enter choice: 5
+
 Search by (title/author/category): atomic
+
 Book ID: 101
+
 Title: Atomic Habits
+
 Author: James Clear
+
 Category: Self-help
+
 Issued: No
 
 ===== City Library Digital Management System =====
