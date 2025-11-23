@@ -86,8 +86,13 @@ Category: Self-help
 
 Issued: No
 
+
 ===== City Library Digital Management System =====
+
 Enter choice: 3
+
 Enter Book ID: 101
+
 Enter Member ID: 201
+
 Book issued successfully!
