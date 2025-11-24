@@ -326,7 +326,7 @@ class LibraryManager {
 }
 
 
-public class CityLibrarySystem {
+public class CityLibraryDigitalManagementSystem {
     public static void main(String[] args) {
         LibraryManager lm = new LibraryManager();
         lm.menu();
